@@ -9,16 +9,21 @@ public class TestFace {
         return checkPrijs;
 
 
-        public int getTotaal () {
+        public int getTotaal(){
             return Totaal;
         }
 
-        public String getShowWay () {
+        public String getShowWay(){
 
             return showWay;
         }
 
+        }
+
+
+
+
 
     }
 
-}
+
