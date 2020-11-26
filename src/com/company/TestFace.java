@@ -7,19 +7,18 @@ public class TestFace {
 
     public int getCheckPrijs() {
         return checkPrijs;
+
+
+        public int getTotaal () {
+            return Totaal;
+        }
+
+        public String getShowWay () {
+
+            return showWay;
+        }
+
+
     }
-
-    public int getTotaal() {
-        return Totaal;
-    }
-
-    public String getShowWay() {
-
-        return showWay;
-    }
-
-
-
-
 
 }
