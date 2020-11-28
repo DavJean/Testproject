@@ -7,9 +7,10 @@ public class TestFace {
 
     public int getCheckPrijs() {
         return checkPrijs;
+    }
 
-
-        public int getTotaal(){
+        public int getTotaal(int total){
+            int totaal = 5 + total;
             return Totaal;
         }
 
